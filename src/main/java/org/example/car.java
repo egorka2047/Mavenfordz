@@ -14,8 +14,5 @@ public class car {
         this.name = name;
     }
 
-    public car(String name, int speed) {
-        this.name = name;
-        this.speed = speed;
-    }
+
 }
